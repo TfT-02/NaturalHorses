@@ -18,3 +18,7 @@ spawn-chance: 1
 
 # % Chance that it will spawn a donkey instead of a horse
 donkey-chance: 10
+
+# Count how many horses have spawned
+spawned-horses: 0
+max-horses: 15
